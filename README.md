@@ -50,3 +50,6 @@ El sistema permite al usuario interactuar a través de un menú en la consola co
 2. Ejecutar el script principal con Python:
    ```sh
    python -m app.main
+
+## Autor
+- Mateo Molina Gonzalez y Universidad de Medellín
